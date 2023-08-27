@@ -34,13 +34,13 @@ namespace CalculadoraSimple
                     resultado = num1 * num2;
                     break;
                 case "/":
-                    if (num2 != 0)
+                    if (num2 != 0) // Validar que no sea divisible entre 0
                     {
                         resultado = num1 / num2;
                     }
                     else
                     {
-                        Console.WriteLine("No es posible dividir entre 0.");
+                        Console.WriteLine("No es posible dividir entre 0."); 
                         return;
                     }
                     break;
