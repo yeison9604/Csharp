@@ -12,3 +12,4 @@ C:\Users\YEISON\OneDrive\Escritorio\Taller C#\calculadora\obj\Debug\net8.0\refin
 C:\Users\YEISON\OneDrive\Escritorio\Taller C#\calculadora\obj\Debug\net8.0\calculadora.pdb
 C:\Users\YEISON\OneDrive\Escritorio\Taller C#\calculadora\obj\Debug\net8.0\calculadora.genruntimeconfig.cache
 C:\Users\YEISON\OneDrive\Escritorio\Taller C#\calculadora\obj\Debug\net8.0\ref\calculadora.dll
+C:\Users\YEISON\OneDrive\Escritorio\Taller C#\calculadora\obj\Debug\net8.0\calculadora.sourcelink.json
