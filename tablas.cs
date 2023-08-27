@@ -28,10 +28,10 @@ namespace TablasDeMultiplicar
                 Console.WriteLine($"Tabla del {i}:");
                 for (int j = 1; j <= 10; j++)
                 {
-                    if (j == 5) // Elegimos ocultar un resultado aleatorio en la fila 5
+                    if (j == 5) // Aqui elijo ocultar el resultado en la columna 5
                     {
                         int resultadoReal = i * j;
-                        int resultadoOculto = random.Next(1, 10) * i; // Generamos un resultado aleatorio para ocultar
+                        int resultadoOculto = random.Next(1, 10) * i; // Aqui genero un numero aleatorio para ocultar el resultado
                         Console.Write($" {i} x {j} = {resultadoOculto}\t");
                     }
                     else
