@@ -18,11 +18,7 @@ namespace CalculadoraSimple
             Console.Write("Ingresa el segundo número: ");
             double num2 = Convert.ToDouble(Console.ReadLine());
 
-            // Console.WriteLine("Selecciona la operación:");
-            // Console.WriteLine("1 - Suma");
-            // Console.WriteLine("2 - Resta");
-            // Console.WriteLine("3 - Multiplicación");
-            // Console.WriteLine("4 - División");
+
 
             double resultado = 0;
 
